@@ -17,3 +17,13 @@ body {
     background-color: bisque;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+.Ajedrez {
+    color: brown;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+.tablero {
+    margin: auto;
+}
